@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/fruit")
-public class FruitaController {
+public class FruitController {
 
     @Autowired
     private FruitService fruitService;
